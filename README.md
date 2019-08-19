@@ -9,4 +9,4 @@ Press any alphabet key and enjoy! By pressing any alphabet key, there will be an
   * PaperJs
   * HowlerJs
 # Demo of Patap
- https://1shiva0.github.io/Patatap/
+ https://Ramchaik.github.io/Patatap/
